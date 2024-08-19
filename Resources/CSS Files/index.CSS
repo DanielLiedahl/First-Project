@@ -1,0 +1,83 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+ 
+  body{
+    background-color: rgb(203, 255, 207);
+  }
+
+  h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(240, 230, 140);
+    background-color: rgba(255, 240, 240, 0);
+    margin: auto;
+    text-align: center;
+    background-image: url("Resources/Images/pattern.jpeg");
+    padding:20px;
+  }
+ 
+  .brushes h3 {
+    background-color: aquamarine;
+    padding-left: 40px;
+  }
+
+  .brushes img {
+    float:left;
+  
+  }
+
+  .brushes p {
+    position:relative;
+    top:18px;
+    left:18px;
+  }
+  .brushes mark {
+    color: blue;
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+  .frames h3 {
+    background-color: red;
+    padding-left: 40px;
+    clear:both;
+  }
+
+  .frames img {    
+    float:left;
+  }
+
+  .frames p {
+    position:relative;
+    top:18px;
+    left:18px;
+  }
+
+  .frames mark {
+    color: blue;
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+
+  .paint h3 {
+    background-color: rgb(0, 162, 255);
+    padding-left: 40px;
+    clear:both;
+  }
+
+  .paint img {    
+    float:left;
+  }
+
+  .paint p {
+    position:relative;
+    top:18px;
+    left:18px;
+  }
+
+  .paint mark {
+    color: blue;
+    background-color: rgba(255, 255, 255, 0);
+  }
